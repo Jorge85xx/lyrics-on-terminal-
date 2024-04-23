@@ -153,7 +153,7 @@ def print_lyrics():
     print('')
 
 if __name__ == "__main__":
-    music_file = "lalalandd.mp3"
+    music_file = "cityOfStars.mp3"
     play_music(music_file)
     print_lyrics()
 
